@@ -4,13 +4,16 @@
 * object,States or behaviors
 * class, A class can be defined as a template/blue print that describes the behaviors/states
 * instance,Allocating memory for a new object and returning a reference to that memory.
-* method,Collection of statements that are grouped together to perform an operation.
-* signature, method name and the number and type of its parameters.
-* parameter, data that a method can receive
-* type,Is the function which decides input parameters
-* state,An object's state is defined by the attributes of the object and by the values these have.
-* source code,Collection of objects,class and commands
-* return value,The header is where you tell Java what value type
+* method,Collection of statements that are grouped together to manipulate or access information from an objects.
+* signature (or heading), method name and the number and type of its parameters. I.e. the following signature changes the size of the instance 'box' of class 'box' and does not give an output.
+* ...
+* void changeSize(Box box)
+* ...
+* parameter, an input of the method.I.e.'box' is the parameter in the example above
+* type,Defines what values the parameter is allowed to be.
+* state,Set of value describing an object.
+* source code,Collection of written command that compiles to create an executable program.
+* return value,Output of a method
 * compiler,Transforms source code into computer language
 
 ## In Chapter 1 we have mentioned the data types int and String. Java has more predefined data types. Find out what they are and what they are used for. To do this, you can check Appendix B, or look it up in another Java book or in an online Java language manual. One such manual is at [http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html](http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
