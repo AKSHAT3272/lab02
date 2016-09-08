@@ -31,7 +31,7 @@
 ## What would you have to do to add a new field, for example one called name, to a circle object?
 Right click new circle()
 ## Write the header for a method named send that has one parameter of type String, and does not return a value.
-void send()
+void send(String pass)
 ## Write the header for a method named average that has two parameters, both of type int, and returns an int value.
 int average(int a,int b)
 ## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class.
