@@ -1,7 +1,7 @@
 # Lab 02 -- Chapter 01
 
 ## Define the followint terms:
-* object,States and behaviors
+* object,States or behaviors
 * class, A class can be defined as a template/blue print that describes the behaviors/states
 * instance,Allocating memory for a new object and returning a reference to that memory.
 * method,Collection of statements that are grouped together to perform an operation.
