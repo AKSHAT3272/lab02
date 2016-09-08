@@ -20,21 +20,28 @@
 
 ## What are the types of the following values?
 
-* 0-int
-* "hello"-string
-* 101-int
-* -1-int
+* 0-int,double,float
+* "hello"-String
+* 101-int,double,float
+* -1-int,double,float
 * true-boolean
 * "33"-string
-* 3.1415-float
+* 3.1415-double,float
 
 ## What would you have to do to add a new field, for example one called name, to a circle object?
-Right click new circle()
+...
+private String name;
+...
 ## Write the header for a method named send that has one parameter of type String, and does not return a value.
-void send(String pass)
+...
+public void send(String var1)
+...
 ## Write the header for a method named average that has two parameters, both of type int, and returns an int value.
+...
 int average(int a,int b)
+...
 ## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class.
-objects-xPosition,yPosition,colour
+The book is an objects of class books.
+or the book is a class called BlueJbook and the objects are different copies of book.
 ## Can an object have several different classes? Discuss.
 Yes an object can implement as many interfaces as needed
