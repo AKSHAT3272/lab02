@@ -37,4 +37,4 @@ int average(int a,int b)
 ## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class.
 objects-xPosition,yPosition,colour
 ## Can an object have several different classes? Discuss.
-Yes if the object in the class in public.
+Yes an object can implement as many interfaces as needed
